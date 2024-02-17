@@ -1,0 +1,37 @@
+body{
+    background-color: hotpink;
+    background-image: url(/Exercise01/image/Blood-Donor-Month.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    font-size: 26px;
+    border: 100px;
+    border-color: black;
+
+}
+
+input{
+    padding: 2px;
+    width: 150px;
+    height: 20px;
+    font-size: large;
+    line-height: 90px;
+}
+td{
+    line-height: 90px;
+    align-content: center;
+}
+
+button,a{
+    padding: 2px;
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    background-color: rgb(42, 157, 203);
+    font-weight: bold;
+    align-items: center;
+    border: none;
+    border-radius: 11px;
+    color: white;
+}
